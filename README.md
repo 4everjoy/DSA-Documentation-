@@ -8,6 +8,11 @@ This project is a summary of my journey with 'THE INCUBATOR HUB' which started 2
 such as Power BI, SQL and Excel which are essential tools in data analysis. As a result of the training project were giving which I will be discussing on here.
 
 ### CASE STUDY 1:  Palmora Group HR Analysis
+#### DESCRIPTION :  A Company based in Nigeria is embroiled in issues bordering on gender inequality in its 3 regions.    
+Analyse the company data and generate insights that the Palmoria management team would need to address; 
+● Your analysis should be visualised using appropriate charts. 
+● Your focus should be on gender-related issues within the organization and its regions. 
+● The insights required are based on your discretion.  
 
 ### CASE STUDY 2:  Kultra Mega Stores Inventory 
 #### DESCRIPTION: A detailed analysis of inventory on sales and order data for a retailed company named above Headquartered in Lagos, specialises in office supplies and furniture. Its customer base includes individual consumers, small businesses (retail), and large corporate clients (wholesale) across Lagos, Nigeria. 
@@ -228,9 +233,6 @@ QUESTION  11 IF THE DELIVERY TRUCK IS THE MOST ECONOMICAL BUT THE SLOWEST SHIPPI
  [Ship_Mode] DESC
 
  THIS SHOWS THAT THE COMPANY SPENT SHIPPING COST APPROPRIATELY BASED ON HOW CRITICAL THE ORDER PRIORITY IS AND THIS DETERMINED WHICH SHIPPING MODE IS TO CHOOSE IN ORDER TO ENSURE IT DELIVER BETWEEN A SHORT PERIOD OF DAYS.
-
-
-
 
 
 
