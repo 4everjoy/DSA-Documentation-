@@ -12,4 +12,4 @@ such as Power BI, SQL and Excel which are essential tools in data analysis. As a
 ### CASE STUDY 2:  Kultra Mega Stores Inventory 
 #### DESCRIPTION: A detailed analysis of inventory on sales and order data for a retailed company named above Headquartered in Lagos, specialises in office supplies and furniture. Its customer base includes individual consumers, small businesses (retail), and large corporate clients (wholesale) across Lagos, Nigeria. 
 As a Business Intelligence Analyst to support the Abuja division of KMS. The Business Manager has shared an Excel file containing order data from 2009 to 2012 and has requested that you analyze the data and present your key insights and findings. 
-###### Apply your SQL skills from the DSA Data Analysis class and solve both case scenarios as shared in the document. 
+###### Apply your SQL skills from the DSA Data Analysis class and solve both case scenarios as shared in the document. HERE  
