@@ -154,7 +154,8 @@ The Small business customer with the highest sales is Dennis Kane with TotalSale
 
 #### QUESTION 8 WHICH CORPORATE CUSTOMER PLACED THE MOST NUMBER OF ORDERS IN 2009-2012.
 
-SELECT TOP 1 Customer_Name,Customer_Segment,
+SELECT TOP 1 Customer_Name,
+Customer_Segment,
 COUNT(order_id) AS order_quantity
 FROM
 [KMS_SqlCaseStudy]
@@ -184,19 +185,19 @@ KMS_SqlCaseStudy
 GROUP BY Order_id, Sales, Profit, Customer_Name
 ORDER BY Sales DESC
 
-** THE MOST PROFITABLE CONSUMER CUSTOMER IS EMILY PHAN WITH A TOTAL SALES OF 89061.0500 AND PROFIT 27220.690.
+* THE MOST PROFITABLE CONSUMER CUSTOMER IS EMILY PHAN WITH A TOTAL SALES OF 89061.0500 AND PROFIT 27220.690.
 
 #### QUESTION 10 WHICH CUSTOMER RETURNED ITEMS AND WHAT SEGMENT DO THEY BELONG?
 
 SELECT * FROM KMS_SqlCaseStudy
 
 
-SELECT DISTINCT 
+SELECT
 Order_id, Customer_Name,
 Customer_segment
 FROM
 [dbo].KMS_SqlCaseStudy
-JOIN
+INNER JOIN
 [dbo].[KMS_Order_Satus]
 ON Order_id =Order_id
 WHERE 
